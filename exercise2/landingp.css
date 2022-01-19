@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(exercise2\bg-desktop.svg);
+    width: auto; 
+    border-radius: 15px 50px 30px 5px;
+
+}
+button{
+    border-radius: 24px;
+    width: 18%;
+    padding-left: 10px; padding-top: 7px;
+    padding-right: 10px; padding-bottom: 7px;
+    color: blue;border: none; font-size: 14pt;
+
+}
+h2,p{
+    color: white; font-size: 18pt;
+}
+.container{
+    
+    display: flex;
+}
+.left{
+    margin-top: 40px;
+    padding-right: 10%;
+    margin-left: 5px;margin-right: 5px;
+    
+}
+.right{
+    width: 20%;
+    padding-top: 10pc;
+    padding-right: 10pc;
+    border-radius: 18%;
+}
