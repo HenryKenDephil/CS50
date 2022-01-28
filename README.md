@@ -1,2 +1,2 @@
-# CS50
+# Exercises
 # Inventory_mgt_sytm
